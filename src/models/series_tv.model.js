@@ -1,4 +1,4 @@
-const mongoose = require ('mongose')
+const mongoose = require ('mongoose')
 const serieSchema = mongoose.Schema({
   serie:{
     type: String,
