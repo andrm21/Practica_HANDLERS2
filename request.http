@@ -1,7 +1,7 @@
 ###
 POST http://localhost:5000/api/v2/series/serie HTTP/1.1
 Content-Type: application/json
-{
+{[
   "serie":"Ing Software 2",
   "number_seasons":3,
   "original_lenguaje":"EN",
